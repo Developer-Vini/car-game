@@ -1,6 +1,6 @@
 # Car Game
 
-A simple car game made with GameMaker.
+A simple car game made with GameMaker..
 
 ## Controls
 
